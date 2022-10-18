@@ -16,15 +16,15 @@
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Bitbucket-090909?style=for-the-badge&logo=bitbucket&logoColor=0052CC)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/Datagrip-090909?style=for-the-badge&logo=datagrip&logoColor=000000)
+![Header](https://img.shields.io/badge/Datagrip-090909?style=for-the-badge&logo=datagrip&logoColor=f7f7f7)
 ![Header](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
-![Header](https://img.shields.io/badge/TeamCity-090909?style=for-the-badge&logo=teamcity&logoColor=000000)
+![Header](https://img.shields.io/badge/TeamCity-090909?style=for-the-badge&logo=teamcity&logoColor=f7f7f7)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/XCode-090909?style=for-the-badge&logo=xcode&logoColor=147EFB)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Grafana-090909?style=for-the-badge&logo=grafana&logoColor=F46800)
-![Header](https://img.shields.io/badge/Grafana-090909?style=for-the-badge&logo=kibana&logoColor=005571)
+![Header](https://img.shields.io/badge/Kibana-090909?style=for-the-badge&logo=kibana&logoColor=005571)
 
 
 ## Примеры работы

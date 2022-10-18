@@ -32,6 +32,18 @@
 
 
 ##  Рекомендации
+> 
 
+- Ольга, QA Web Lead @ Space307
+
+> 
+
+- Зиля, Project Manager @ Space307
+
+> 
+
+- Марина, QA Lead @ Sperasoft
+
+###### По запросу предоставлю контакты
 
 ###### <a href="https://ru.freepik.com/free-vector/_15206849.htm#query=old%20paper&position=0&from_view=search&track=sph">Изображение от VecMes</a> на Freepik

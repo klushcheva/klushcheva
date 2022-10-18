@@ -32,17 +32,17 @@
 
 
 ##  Рекомендации
-> 
+>quote1 
 
-'- Ольга, QA Web Lead @ Space307
+\- Ольга, QA Web Lead @ Space307
 
-> 
+> quote2
 
-'- Зиля, Project Manager @ Space307
+\- Зиля, Project Manager @ Space307
 
-> 
+> quote3
 
-'- Марина, QA Lead @ Sperasoft
+\- Марина, QA Lead @ Sperasoft
 
 ###### По запросу предоставлю контакты
 

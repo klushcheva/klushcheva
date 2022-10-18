@@ -34,15 +34,15 @@
 ##  Рекомендации
 > 
 
-- Ольга, QA Web Lead @ Space307
+'- Ольга, QA Web Lead @ Space307
 
 > 
 
-- Зиля, Project Manager @ Space307
+'- Зиля, Project Manager @ Space307
 
 > 
 
-- Марина, QA Lead @ Sperasoft
+'- Марина, QA Lead @ Sperasoft
 
 ###### По запросу предоставлю контакты
 

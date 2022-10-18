@@ -1,5 +1,5 @@
 ![Header](https://github.com/klushcheva/klushcheva/blob/main/assets/10.jpg)
-## Добрый день! Меня зовут Ксения, и я - QA инженер с опытом в тестировании более 5 лет.
+## Добрый день! Меня зовут Ксения, я - QA инженер с опытом в тестировании более 5 лет.
 
 ## Резюме и ссылки
 :star:[Headhunter](https://spb.hh.ru/applicant/resumes/view?resume=85dc3b18ff05743f000039ed1f336a74524f4f) \

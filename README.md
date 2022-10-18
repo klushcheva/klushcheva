@@ -3,8 +3,8 @@
 
 ## Резюме и ссылки
 [Headhunter](https://spb.hh.ru/applicant/resumes/view?resume=85dc3b18ff05743f000039ed1f336a74524f4f)
-[LinkedIn] (https://www.linkedin.com/in/ksenia-luscheva/)
-[telegram] (http://t.me/supostatka)
+[LinkedIn](https://www.linkedin.com/in/ksenia-luscheva/)
+[telegram](http://t.me/supostatka)
 
 ## Stack & skills
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)

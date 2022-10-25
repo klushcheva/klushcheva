@@ -46,7 +46,7 @@
 
 > _REVIEW PENDING..._
 
-\- Марина, QA Lead @ Sperasoft
+\- [Марина, QA Lead @ Sperasoft](https://www.linkedin.com/in/marinbezhenar/)
 
 ###### По запросу предоставлю контакты коллег в телеграме
 

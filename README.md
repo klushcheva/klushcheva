@@ -44,7 +44,7 @@
 
 \- [Зиля, Project Manager @ Space307](https://www.linkedin.com/in/zilya-islamova-0a62361a4/)
 
-> quote3
+> _REVIEW PENDING..._
 
 \- Марина, QA Lead @ Sperasoft
 

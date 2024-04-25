@@ -59,7 +59,7 @@
 
 ### Data Science and Machine Learning:
 ![Header](https://img.shields.io/badge/Jupyter-090909?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Header](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=pandas&logoColor=150458)
+![Header](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=pandas&logoColor=669DF6)
 ![Header](https://img.shields.io/badge/ScikitLearn-090909?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Header](https://img.shields.io/badge/Tensorflow-090909?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) 
 
